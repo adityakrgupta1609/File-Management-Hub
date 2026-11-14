@@ -7,7 +7,6 @@ A Python-based File Management application built using **Streamlit**, providing 
 - User-friendly web interface powered by Streamlit
 - File management through Python
 - Interactive application interface
-- [Add your actual project features here]
 
 ## Technologies Used
 
@@ -21,7 +20,7 @@ A Python-based File Management application built using **Streamlit**, providing 
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/adityakrgupta1609/File-Management.git
+git clone https://github.com/adityakrgupta1609/File-Management-Hub
 ```
 
 **2. Navigate to the project directory**
